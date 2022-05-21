@@ -2,17 +2,17 @@ baseurl: "https://mayedongsoda.netlify.app"
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: Example Site
+title: Manye (Cara) Dong
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Manye (Cara) Dong
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 董蔓烨
         weight: 2
 
 # Change it to your Disqus shortname before using
@@ -50,11 +50,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: "Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte.--Juan Rulfo"
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: content/avatar.jpg
 
     article:
         math: false
