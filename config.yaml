@@ -50,7 +50,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: "Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte.--Juan Rulfo"
+        subtitle: hey hey
         avatar:
             enabled: true
             local: true
